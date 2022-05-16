@@ -13,7 +13,7 @@
     "tslint": "tslint --project tsconfig.json"
   },
   "dependencies": {
-    "axios": "0.21.1",
+    "axios": "0.21.2",
     "kontent-docs-shared-code": "4.0.4",
     "node-html-parser": "1.1.16",
     "striptags": "3.1.1"
